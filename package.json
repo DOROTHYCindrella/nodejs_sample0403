@@ -1,19 +1,19 @@
 {
     "author": "Brendan Dayley",
-    "name": "daru",
+    "name": "yami04",
     "version": "0.1.1",
     "description": "Censors words out of text",
     "main": "censortext",
     "repository": {
         "type": "git",
-        "url": "https://github.com/DOROTHYCindrella/nodejs_sample0403/upload"
+        "url": "https://github.com/DOROTHYCindrella/nodejs_sample0403"
         },
-    "keywords": [
-12 "censor",
-13 "words"
-14 ],
-15 "dependencies": {},
-16 "engines": {
-17 "node": "*"
-18 }
-19 }
+        "keywords": [
+ "censor",
+ "words"
+ ],
+ "dependencies": {},
+ "engines": {
+ "node": "*"
+ }
+ }
