@@ -7,4 +7,13 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/DOROTHYCindrella/nodejs_sample0403/upload"
-        }
+        },
+    "keywords": [
+12 "censor",
+13 "words"
+14 ],
+15 "dependencies": {},
+16 "engines": {
+17 "node": "*"
+18 }
+19 }
